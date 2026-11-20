@@ -27,7 +27,6 @@ Open to **Senior AI · SciML · Full-Stack AI** roles — **Remote** or **Intern
 | **[OpenRay](https://github.com/sakha1370/OpenRay)** `256+ ★` | `Python 3.13` `AsyncIO` `SQLite` `GitHub Actions` | Fault-tolerant hourly proxy collection & validation pipeline with **5,400+ CI runs**, transactional SQLite schema migrations, bounded async queues, deterministic Identity v3 hashing, and automated `xray`/`sing-box`/`mihomo` verification. |
 | **[Tivona](https://sakha1370.github.io/tivona/)** `5.0 ★ CWS` | `JavaScript` `Chrome MV3` `i18n / RTL` `Open-Meteo` | Privacy-first, zero-account New Tab planner & dashboard ([Chrome Web Store](https://chromewebstore.google.com/detail/dial-%E2%80%94-speed-dial-new-tab/aeoijkdjmndfjkkalijcjafcmhmloemh), v1.8.0) featuring Gregorian/Persian/Hijri calendars, Pomodoro task tracking, and **9-language localization** with full RTL support. |
 | **[Flexparabolic](https://patents.google.com/patent/CA3231837A1/en)** `Patent` | `Python` `SciPy` `FEM` `Surrogate Modeling` | Co-inventor of the *Parabolic Solar System* (**CA3231837A1** / `PCT/IB2022/056562`). Engineered flexible concentrator geometry, 3-D finite-element shell mechanics, optical ray tracing, and techno-economic optimization from simulation to international IP filing. |
-| **[syntho-mind](https://github.com/sakha1370/syntho-mind)** | `Next.js` `TypeScript` `React` | Full-stack web application built with modern Next.js architecture *(update this line with exact scope & live URL)*. |
 
 ---
 
