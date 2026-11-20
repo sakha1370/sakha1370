@@ -20,8 +20,8 @@ Bridging Ph.D.-level computational modeling with production AI systems and full-
 ### About Me
 
 - **Engineering & Research Depth:** Ph.D. in Mechanical Engineering (2020) with **2 Q1 peer-reviewed journal publications** in renewable energy and genetic optimization.
-- **Inventor:** Co-inventor of the *Flexible Parabolic Trough Collector* ([Canadian Patent CA 3231837](https://patents.google.com/patent/WO2023037175A1) / `PCT/IB2022/056562`).
-- **Production AI & Full-Stack Builder:** Designing end-to-end AI applications (RAG, Agentic workflows, voice-first apps), high-throughput automation pipelines, and numerical simulation frameworks.
+- **Inventor & Founder:** Co-inventor of the *Flexible Parabolic Trough Collector* ([Canadian Patent CA 3231837](https://patents.google.com/patent/WO2023037175A1) / `PCT/IB2022/056562`) — [Flexparabolic on LinkedIn](https://www.linkedin.com/company/YOUR-FLEXPARABOLIC-LINK).
+- **Production AI & Full-Stack Builder:** Designing end-to-end AI systems (RAG, Agentic workflows, Scientific ML / Surrogate Modeling), automated pipelines, and browser-based products.
 - **High-Output Execution:** Consistently ranked among the top developers in Iran on WakaTime, shipping across Python, TypeScript, React, and Dockerized Linux environments.
 
 ---
@@ -31,9 +31,8 @@ Bridging Ph.D.-level computational modeling with production AI systems and full-
 | Project | What It Does | Core Stack |
 | :--- | :--- | :--- |
 | **[OpenRay](https://github.com/sakha1370/OpenRay)** ⭐ 250+ | Automated proxy aggregation, Globalping multi-region health probing, and client-config publishing pipeline. | `Python` `GitHub Actions` `Xray` `Globalping API` |
-| **[SayGPT](https://saygpt.ir)** | Voice-first AI English immersion platform with real-time grammar highlighting, pronunciation feedback, and CEFR tracking. | `React` `TypeScript` `Fastify` `PostgreSQL` `Redis` `Docker` |
-| **Flexible Collector Sim (`flex_collector`)** | Numerical simulation framework for 3-D finite-element shell mechanics, surrogate modeling, and optical ray tracing. | `Python` `SciPy` `FEM` `Surrogate Modeling` |
-| **Dial / Tivona** | Offline-first Manifest V3 Chrome new-tab extension with glassmorphic UI, multi-calendar support, and 9-language localization. | `JavaScript` `Chrome MV3` `HTML/CSS` |
+| **[Tivona](https://chromewebstore.google.com/detail/tivona-%E2%80%94-new-tab-dashboar/aeoijkdjmndfjkkalijcjafcmhmloemh)** | Offline-first Manifest V3 Chrome new-tab dashboard with glassmorphic UI, multi-calendar support, weather, and 9-language localization. | `JavaScript` `Chrome MV3` `HTML/CSS` |
+| **[Flexparabolic](https://www.linkedin.com/company/YOUR-FLEXPARABOLIC-LINK) (`flex_collector`)** | Numerical simulation framework for 3-D finite-element shell mechanics, surrogate modeling, and optical ray tracing for patented solar collector tech. | `Python` `SciPy` `FEM` `Surrogate Modeling` |
 
 ---
 
@@ -41,7 +40,7 @@ Bridging Ph.D.-level computational modeling with production AI systems and full-
 
 | Domain | Technologies |
 | :--- | :--- |
-| **AI & Scientific ML** | PyTorch, LangChain, RAG, Agentic AI, TensorFlow, NumPy, SciPy, Numerical Optimization |
+| **AI & Scientific ML** | PyTorch, LangChain, RAG, Agentic AI, TensorFlow, NumPy, SciPy, DeepONet, Numerical Optimization |
 | **Backend & Data** | Python (Django, FastAPI), Node.js (Fastify), PHP (Laravel), PostgreSQL, Redis |
 | **Frontend** | TypeScript, React, Next.js, Vite, Tailwind CSS, Zustand |
 | **DevOps & Infra** | Docker, Docker Compose, Nginx, GitHub Actions, Linux (Ubuntu), AWS |
