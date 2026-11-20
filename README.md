@@ -2,9 +2,9 @@
 
 # Sadegh Khajepour, Ph.D.
 
-**Senior AI, Scientific ML & Full-Stack Engineer**
+**AI Systems Architect · Scientific ML & Full-Stack Builder**
 
-Bridging physics-based optimization and patented hardware R&D with production Python systems, PyTorch, and TypeScript web products.
+Bridging Ph.D.-level physical modeling and patented solar R&D with production Python/AI pipelines, deterministic LLM verification, and full-stack web products.
 
 Open to **Senior AI · SciML · Full-Stack AI** roles — **Remote** or **International Relocation** *(US · UK · EU · Canada · Australia)*
 
@@ -20,29 +20,24 @@ Open to **Senior AI · SciML · Full-Stack AI** roles — **Remote** or **Intern
 
 ---
 
-### Selected Work & Engineering Impact
+### Selected Systems & Engineering Impact
 
-| Project | Core Stack | Architecture & Quantified Outcome |
+| Project | Stack | Architecture, Rigor & Quantified Outcome |
 | :--- | :--- | :--- |
-| **[OpenRay](https://github.com/sakha1370/OpenRay)** `256+ ★` | `Python 3.13` `AsyncIO` `SQLite` `GitHub Actions` | Fault-tolerant hourly proxy collection & validation pipeline with **5,400+ CI runs**, transactional SQLite schema migrations, bounded async queues, deterministic Identity v3 hashing, and automated `xray`/`sing-box`/`mihomo` verification. |
-| **[Tivona](https://sakha1370.github.io/tivona/)** `5.0 ★ CWS` | `JavaScript` `Chrome MV3` `i18n / RTL` `Open-Meteo` | Privacy-first, zero-account New Tab planner & dashboard ([Chrome Web Store](https://chromewebstore.google.com/detail/dial-%E2%80%94-speed-dial-new-tab/aeoijkdjmndfjkkalijcjafcmhmloemh), v1.8.0) featuring Gregorian/Persian/Hijri calendars, Pomodoro task tracking, and **9-language localization** with full RTL support. |
-| **[Flexparabolic](https://patents.google.com/patent/CA3231837A1/en)** `Patent` | `Python` `SciPy` `FEM` `Surrogate Modeling` | Co-inventor of the *Parabolic Solar System* (**CA3231837A1** / `PCT/IB2022/056562`). Engineered flexible concentrator geometry, 3-D finite-element shell mechanics, optical ray tracing, and techno-economic optimization from simulation to international IP filing. |
+| **[OpenRay](https://github.com/sakha1370/OpenRay)** `Public · 256+ ★` | `Python 3.13` `AsyncIO` `SQLite` `GitHub Actions` | Fault-tolerant hourly proxy discovery & validation pipeline (**5,400+ CI runs**, cross-platform CI + 1,000-config benchmarks, transactional SQLite migrations, deterministic Identity v3 hashing, DNS-over-TLS & Globalping verification). |
+| **[Tivona](https://sakha1370.github.io/tivona/)** `Public · 5.0 ★ CWS` | `Vanilla JS` `Chrome MV3` `i18n / RTL` `CI` | Zero-dependency, privacy-first New Tab dashboard ([Chrome Web Store](https://chromewebstore.google.com/detail/dial-%E2%80%94-speed-dial-new-tab/aeoijkdjmndfjkkalijcjafcmhmloemh), v1.8.0) with Gregorian/Persian/Hijri calendars, Pomodoro/habits/finance tracking, **9-language RTL support**, and 22 automated tests. |
+| **[Flexparabolic](https://patents.google.com/patent/CA3231837A1/en)** `Patent · R&D` | `Python 3.11` `NumPy/SciPy` `FEM` `LaTeX` | Co-inventor of **WO2023037175A1 / CA3231837A1**. Built an **80+ module** numerical simulation CLI (`flex-collector`) covering shell mechanics, optical ray tracing, and techno-economic analysis, validated by **36 physics/benchmark tests**. |
+| **EvidenceBulletin** `AI Prototype` | `FastAPI` `Python` `SQLAlchemy` `Playwright` | Evidence-based policy bulletin engine converting scientific papers into structured briefs with **deterministic verification** (LLM proposes, code verifies every number/quote), GRADE scoring, and **482 pytest + 12 Playwright E2E tests**. |
+| **hoo** `Production E-Commerce` | `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Redis` | Production-grade e-commerce platform with AI virtual try-on, **Distroless non-root Docker**, **Trivy/OpenVEX & Gitleaks** security gates, CSP/CSRF/RBAC, Vitest/Playwright CI, and SSH release pipelines with **automatic rollback**. |
+| **Acoustic DNN Surrogates** `Applied SciML` | `PyTorch` `NumPy/SciPy` `Maple → Python` | Translated symbolic Maple acoustic-scattering solvers into vectorized Python pipelines, generated large-scale physical datasets, and trained **multi-task PyTorch DNN surrogates** with held-out verification and publication-grade plots. |
 
 ---
 
-### Core Engineering Stack
+### Core Engineering Capabilities
 
-- **AI & Scientific ML:** PyTorch · PINNs & Surrogate Modeling · Multi-Objective Optimization · LangChain · RAG & LLM Evaluation · NumPy / SciPy
-- **Backend & Systems:** Python 3.13+ · AsyncIO · FastAPI / Django · SQLite & PostgreSQL · Redis · Docker · GitHub Actions CI/CD
-- **Full-Stack & Product:** TypeScript · React / Next.js · Chrome Extensions (Manifest V3) · i18n & RTL UI
-
----
-
-### Engineering Velocity & Technical Rigor
-
-- **Systems & Community Traction:** `OpenRay` is actively mirrored across third-party GitHub aggregators with 256+ stars and continuous automated validation.
-- **Sustained Shipping Cadence:** Consistently ranked **Top-3 in Iran on WakaTime** across weekly coding volume and Python/TypeScript AI-assisted engineering output.
-- **Language & Research Depth:** Active contributor to CPython language design discussions (`discuss.python.org`) and author of **Q1 Elsevier** peer-reviewed research in energy systems optimization.
+- **AI & Scientific ML:** PyTorch Surrogate Modeling · Physics-Based Simulation & Optimization · Deterministic LLM Grounding & Eval · RAG / Multi-Agent Workflows · NumPy / SciPy
+- **Backend, DevOps & Security:** Python (FastAPI, AsyncIO) · PostgreSQL / SQLite / Redis · Multi-Stage Distroless Docker · GitHub Actions CI/CD · Automated Testing (pytest, Vitest, Playwright) · Security Hardening (CSP, CSRF, Trivy, Gitleaks)
+- **Full-Stack & Product:** TypeScript · Next.js / React · Tailwind CSS · Chrome Extensions (MV3) · i18n & RTL Architecture
 
 ---
 
@@ -51,9 +46,9 @@ Open to **Senior AI · SciML · Full-Stack AI** roles — **Remote** or **Intern
 <br>
 
 **International Patent**
-- **CA3231837A1 / PCT/IB2022/056562** — *Parabolic solar system* (Flexparabolic). Filed Jul 2022, published Mar 2023, Canadian national phase Feb 2024. Primary inventor: Sadegh Khajepour. [View Patent](https://patents.google.com/patent/CA3231837A1/en)
+- **CA3231837A1 / PCT/IB2022/056562 (WO2023037175A1)** — *Parabolic solar system* (Flexparabolic). Primary inventor: Sadegh Khajepour. [View Patent](https://patents.google.com/patent/CA3231837A1/en)
 
-**Selected Q1 Elsevier Journal Publications**
+**Q1 Elsevier Journal Publications**
 - Khajepour, S., & Ameri, M. (2020). *Techno-economic analysis of using three Fresnel solar fields coupled to a thermal power plant for different cost of natural gas.* **Renewable Energy**, Vol. 146, pp. 2243–2254. [DOI: 10.1016/j.renene.2019.08.075](https://doi.org/10.1016/j.renene.2019.08.075)
 - Khajepour, S., & Ameri, M. (2020). *Techno-economic analysis of a hybrid solar Thermal-PV power plant.* **Sustainable Energy Technologies and Assessments**, Vol. 42, 100857. [DOI: 10.1016/j.seta.2020.100857](https://doi.org/10.1016/j.seta.2020.100857)
 
