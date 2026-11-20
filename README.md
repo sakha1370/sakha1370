@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![WakaTime Iran Rank](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sakha1370/sakha1370/main/badges/wakatime-iran.json&style=for-the-badge)](https://wakatime.com/leaders?country_code=IR)
+[![WakaTime Global Rank](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sakha1370/sakha1370/main/badges/wakatime-global.json&style=for-the-badge)](https://wakatime.com/leaders)
