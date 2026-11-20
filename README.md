@@ -2,51 +2,65 @@
 
 # Sadegh Khajepour, Ph.D.
 
-**AI & Full-Stack Engineer · Scientific ML · Inventor**
+**Senior AI, Scientific ML & Full-Stack Engineer**
 
-Bridging Ph.D.-level computational modeling with production AI systems and full-stack software.
+Bridging physics-based optimization and patented hardware R&D with production Python systems, PyTorch, and TypeScript web products.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR-ID)
+Open to **Senior AI · SciML · Full-Stack AI** roles — **Remote** or **International Relocation** *(US · UK · EU · Canada · Australia)*
 
-[![WakaTime Iran Rank](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sakha1370/sakha1370/main/badges/wakatime-iran.json&style=for-the-badge)](https://wakatime.com/leaders?country_code=IR)
-[![WakaTime Global Rank](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sakha1370/sakha1370/main/badges/wakatime-global.json&style=for-the-badge)](https://wakatime.com/leaders)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sadegh--khajepour-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadegh-khajepour)
+[![Email](https://img.shields.io/badge/Email-sakha1370%40gmail.com-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:sakha1370@gmail.com)
+[![Patent](https://img.shields.io/badge/Patent-CA3231837A1-0F766E?style=flat-square&logo=google-scholar&logoColor=white)](https://patents.google.com/patent/CA3231837A1/en)
+[![Tivona](https://img.shields.io/badge/Chrome_Web_Store-Tivona_5.0★-1D4ED8?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/dial-%E2%80%94-speed-dial-new-tab/aeoijkdjmndfjkkalijcjafcmhmloemh)
+
+[![WakaTime Iran Rank](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sakha1370/sakha1370/main/badges/wakatime-iran.json&style=flat-square)](https://wakatime.com/leaders?country_code=IR)
+[![WakaTime Global Rank](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sakha1370/sakha1370/main/badges/wakatime-global.json&style=flat-square)](https://wakatime.com/leaders)
 
 </div>
 
 ---
 
-### About Me
+### Selected Work & Engineering Impact
 
-- **Engineering & Research Depth:** Ph.D. in Mechanical Engineering (2020) with **2 Q1 peer-reviewed journal publications** in renewable energy and genetic optimization.
-- **Inventor & Founder:** Co-inventor of the *Flexible Parabolic Trough Collector* ([Canadian Patent CA 3231837](https://patents.google.com/patent/WO2023037175A1) / `PCT/IB2022/056562`) — [Flexparabolic on LinkedIn](https://www.linkedin.com/company/YOUR-FLEXPARABOLIC-LINK).
-- **Production AI & Full-Stack Builder:** Designing end-to-end AI systems (RAG, Agentic workflows, Scientific ML / Surrogate Modeling), automated pipelines, and browser-based products.
-- **High-Output Execution:** Consistently ranked among the top developers in Iran on WakaTime, shipping across Python, TypeScript, React, and Dockerized Linux environments.
-
----
-
-### Featured Projects
-
-| Project | What It Does | Core Stack |
+| Project | Core Stack | Architecture & Quantified Outcome |
 | :--- | :--- | :--- |
-| **[OpenRay](https://github.com/sakha1370/OpenRay)** ⭐ 250+ | Automated proxy aggregation, Globalping multi-region health probing, and client-config publishing pipeline. | `Python` `GitHub Actions` `Xray` `Globalping API` |
-| **[Tivona](https://chromewebstore.google.com/detail/tivona-%E2%80%94-new-tab-dashboar/aeoijkdjmndfjkkalijcjafcmhmloemh)** | Offline-first Manifest V3 Chrome new-tab dashboard with glassmorphic UI, multi-calendar support, weather, and 9-language localization. | `JavaScript` `Chrome MV3` `HTML/CSS` |
-| **[Flexparabolic](https://www.linkedin.com/company/YOUR-FLEXPARABOLIC-LINK) (`flex_collector`)** | Numerical simulation framework for 3-D finite-element shell mechanics, surrogate modeling, and optical ray tracing for patented solar collector tech. | `Python` `SciPy` `FEM` `Surrogate Modeling` |
+| **[OpenRay](https://github.com/sakha1370/OpenRay)** `256+ ★` | `Python 3.13` `AsyncIO` `SQLite` `GitHub Actions` | Fault-tolerant hourly proxy collection & validation pipeline with **5,400+ CI runs**, transactional SQLite schema migrations, bounded async queues, deterministic Identity v3 hashing, and automated `xray`/`sing-box`/`mihomo` verification. |
+| **[Tivona](https://sakha1370.github.io/tivona/)** `5.0 ★ CWS` | `JavaScript` `Chrome MV3` `i18n / RTL` `Open-Meteo` | Privacy-first, zero-account New Tab planner & dashboard ([Chrome Web Store](https://chromewebstore.google.com/detail/dial-%E2%80%94-speed-dial-new-tab/aeoijkdjmndfjkkalijcjafcmhmloemh), v1.8.0) featuring Gregorian/Persian/Hijri calendars, Pomodoro task tracking, and **9-language localization** with full RTL support. |
+| **[Flexparabolic](https://patents.google.com/patent/CA3231837A1/en)** `Patent` | `Python` `SciPy` `FEM` `Surrogate Modeling` | Co-inventor of the *Parabolic Solar System* (**CA3231837A1** / `PCT/IB2022/056562`). Engineered flexible concentrator geometry, 3-D finite-element shell mechanics, optical ray tracing, and techno-economic optimization from simulation to international IP filing. |
+| **[syntho-mind](https://github.com/sakha1370/syntho-mind)** | `Next.js` `TypeScript` `React` | Full-stack web application built with modern Next.js architecture *(update this line with exact scope & live URL)*. |
 
 ---
 
-### Core Tech Stack
+### Core Engineering Stack
 
-| Domain | Technologies |
-| :--- | :--- |
-| **AI & Scientific ML** | PyTorch, LangChain, RAG, Agentic AI, TensorFlow, NumPy, SciPy, DeepONet, Numerical Optimization |
-| **Backend & Data** | Python (Django, FastAPI), Node.js (Fastify), PHP (Laravel), PostgreSQL, Redis |
-| **Frontend** | TypeScript, React, Next.js, Vite, Tailwind CSS, Zustand |
-| **DevOps & Infra** | Docker, Docker Compose, Nginx, GitHub Actions, Linux (Ubuntu), AWS |
+- **AI & Scientific ML:** PyTorch · PINNs & Surrogate Modeling · Multi-Objective Optimization · LangChain · RAG & LLM Evaluation · NumPy / SciPy
+- **Backend & Systems:** Python 3.13+ · AsyncIO · FastAPI / Django · SQLite & PostgreSQL · Redis · Docker · GitHub Actions CI/CD
+- **Full-Stack & Product:** TypeScript · React / Next.js · Chrome Extensions (Manifest V3) · i18n & RTL UI
 
 ---
 
-### Open to Opportunities
+### Engineering Velocity & Technical Rigor
 
-Interested in **AI Engineer**, **Full-Stack Engineer**, and **Scientific ML / R&D** roles (remote or international). Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) or [Email](mailto:your.email@example.com).
+- **Systems & Community Traction:** `OpenRay` is actively mirrored across third-party GitHub aggregators with 256+ stars and continuous automated validation.
+- **Sustained Shipping Cadence:** Consistently ranked **Top-3 in Iran on WakaTime** across weekly coding volume and Python/TypeScript AI-assisted engineering output.
+- **Language & Research Depth:** Active contributor to CPython language design discussions (`discuss.python.org`) and author of **Q1 Elsevier** peer-reviewed research in energy systems optimization.
+
+---
+
+<details>
+<summary><strong>Publications, International Patent & Credentials</strong></summary>
+<br>
+
+**International Patent**
+- **CA3231837A1 / PCT/IB2022/056562** — *Parabolic solar system* (Flexparabolic). Filed Jul 2022, published Mar 2023, Canadian national phase Feb 2024. Primary inventor: Sadegh Khajepour. [View Patent](https://patents.google.com/patent/CA3231837A1/en)
+
+**Selected Q1 Elsevier Journal Publications**
+- Khajepour, S., & Ameri, M. (2020). *Techno-economic analysis of using three Fresnel solar fields coupled to a thermal power plant for different cost of natural gas.* **Renewable Energy**, Vol. 146, pp. 2243–2254. [DOI: 10.1016/j.renene.2019.08.075](https://doi.org/10.1016/j.renene.2019.08.075)
+- Khajepour, S., & Ameri, M. (2020). *Techno-economic analysis of a hybrid solar Thermal-PV power plant.* **Sustainable Energy Technologies and Assessments**, Vol. 42, 100857. [DOI: 10.1016/j.seta.2020.100857](https://doi.org/10.1016/j.seta.2020.100857)
+
+**Education & Specializations**
+- **Ph.D. in Mechanical Engineering (Energy Conversion)** — Shahid Bahonar University of Kerman
+- **M.Sc. in Mechanical Engineering** — Iran University of Science & Technology (IUST)
+- **IBM Professional Certificates** — Generative AI Engineering, AI Engineering, Machine Learning, Data Science ([Coursework Repos](https://github.com/sakha1370?tab=repositories&q=Coursera))
+
+</details>
