@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "WakaTime Global",
-  "message": "Unranked",
-  "color": "lightgrey",
+  "message": "#9474",
+  "color": "orange",
   "namedLogo": "wakatime"
 }
